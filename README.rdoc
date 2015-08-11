@@ -1,5 +1,0 @@
-== README
-
-Premier exemple du tuto ruby on rails.
-
-En cours d'edition
